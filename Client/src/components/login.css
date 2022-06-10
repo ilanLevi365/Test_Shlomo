@@ -1,0 +1,12 @@
+.login {
+    position: absolute;
+    width: 700px;
+    height: 250px;
+    position: absolute;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    top: 150px;
+    left: 300px;
+    text-align: center;
+}
